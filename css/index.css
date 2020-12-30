@@ -1,0 +1,14 @@
+* {
+  font-family: "Helvetica", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+body {
+  max-width: 500px;
+  padding: 48px;
+}
+
+a p {
+  color: rgba(252, 255, 94, 0.9);
+}
